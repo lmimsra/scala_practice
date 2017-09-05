@@ -8,7 +8,8 @@
 - ex3(variable, operator)  
   - var_any.scala -> 変数の種類
   - operator_1,2.scala -> 演算子について
-- ex4(if, loop)  
+- ex4(if, loop)
+  - if_prog.scala -> 条件分岐について
 - ex5  
 - ex6  
 - ex7  
