@@ -2,8 +2,8 @@
 - ex1(hello world)  
   - hello.scala -> print "hello world"
   - add_comment.scala -> commentを色々追加
-  - type_list.scala -> 色々な文字のタイプ
 - ex2  
+  - type_list.scala -> 色々な文字のタイプ
 - ex3  
 - ex4  
 - ex5  

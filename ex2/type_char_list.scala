@@ -1,4 +1,4 @@
-object type_list{
+object type_lang_list{
   def main(args: Array[String]): Unit = {
     println("整数")
     println(123)
@@ -16,5 +16,13 @@ object type_list{
     println("真偽")
     println(true)       //true
     println(false)      //false
+    println("文字")
+    println('A')        //A
+    println('あ')       //あ
+    println('亜')       //亜
+    println('\'')       //'
+    println('\\')       //￥
+    println('\u0041')   //A(Unicode)
+    // println('ABC')   //エラー
   }
 }
