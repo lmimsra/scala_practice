@@ -1,6 +1,7 @@
 # Scala program list  
 - ex1(hello world)  
-hello.scala -> print "hello world"
+  - hello.scala -> print "hello world"
+  - add_comment.scala -> commentを色々追加
 - ex2  
 - ex3  
 - ex4  
