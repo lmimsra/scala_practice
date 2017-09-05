@@ -1,4 +1,4 @@
-# ex1のファイル  
+# 基本 
 ## HelloWorld  
 ``` hello.scala``` ->　基本的な文法  
 ``` hello.scala
