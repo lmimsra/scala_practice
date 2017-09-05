@@ -1,4 +1,4 @@
-object type_lang_list{
+object type_char_list{
   def main(args: Array[String]): Unit = {
     println("整数")
     println(123)
