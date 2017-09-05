@@ -7,6 +7,7 @@
   - type_string_list.scala -> 色々な文字列のタイプ
 - ex3  
   - var_any.scala -> 変数の種類
+  - operator_1,2.scala -> 演算子について
 - ex4  
 - ex5  
 - ex6  
