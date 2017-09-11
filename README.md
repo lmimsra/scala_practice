@@ -10,6 +10,8 @@
   - operator_1,2.scala -> 演算子について
 - ex4(if, loop)
   - if_prog.scala -> 条件分岐について
+  - loop_1.scala -> while loop
+  - loop_2.scala -> for loop
 - ex5  
 - ex6  
 - ex7  
