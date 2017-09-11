@@ -13,6 +13,8 @@
   - loop_1.scala -> while loop
   - loop_2.scala -> for loop
 - ex5  
+  - method.scala -> メソッドについて  
+  - over_load.scala -> オーバーロードについて  
 - ex6  
 - ex7  
 - ex8  
